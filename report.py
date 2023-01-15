@@ -1,6 +1,6 @@
 #-*-coding:utf-8-*-
 # Fb Mass Reports Account
-# Created By Deray
+# Created By DANI
 
 import bs4
 import json
